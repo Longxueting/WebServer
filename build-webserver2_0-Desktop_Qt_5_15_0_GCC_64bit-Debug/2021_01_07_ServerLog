@@ -1,0 +1,107 @@
+2021-01-07 22:13:58.485216 [info]: timer tick
+2021-01-07 22:14:03.484038 [info]: timer tick
+2021-01-07 22:14:08.484248 [info]: timer tick
+2021-01-07 22:14:13.484600 [info]: timer tick
+2021-01-07 22:14:18.484615 [info]: timer tick
+2021-01-07 22:14:23.484638 [info]: timer tick
+2021-01-07 22:14:28.484675 [info]: timer tick
+2021-01-07 22:14:33.484699 [info]: timer tick
+2021-01-07 22:14:36.200442 [info]: deal with the client(192.168.43.234)
+2021-01-07 22:14:36.200538 [info]: adjust timer once
+2021-01-07 22:14:36.202659 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:14:36.202723 [info]: adjust timer once
+2021-01-07 22:14:36.844936 [info]: deal with the client(192.168.43.234)
+2021-01-07 22:14:36.845007 [info]: adjust timer once
+2021-01-07 22:14:36.849202 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:14:36.849380 [info]: adjust timer once
+2021-01-07 22:14:38.484730 [info]: timer tick
+2021-01-07 22:14:43.484756 [info]: timer tick
+2021-01-07 22:14:45.863104 [info]: deal with the client(192.168.43.234)
+2021-01-07 22:14:45.863174 [info]: adjust timer once
+2021-01-07 22:14:45.863536 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:14:45.863580 [info]: adjust timer once
+2021-01-07 22:14:48.484782 [info]: timer tick
+2021-01-07 22:14:53.484806 [info]: timer tick
+2021-01-07 22:14:54.973100 [info]: deal with the client(192.168.43.234)
+2021-01-07 22:14:54.973165 [info]: adjust timer once
+2021-01-07 22:14:54.975649 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:14:54.975722 [info]: adjust timer once
+2021-01-07 22:14:58.484829 [info]: timer tick
+2021-01-07 22:14:58.656000 [info]: deal with the client(192.168.43.234)
+2021-01-07 22:14:58.656055 [info]: adjust timer once
+2021-01-07 22:14:58.656348 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:14:58.656375 [info]: adjust timer once
+2021-01-07 22:14:59.165015 [info]: deal with the client(192.168.43.234)
+2021-01-07 22:14:59.165085 [info]: adjust timer once
+2021-01-07 22:14:59.199978 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:14:59.200033 [info]: adjust timer once
+2021-01-07 22:14:59.226956 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:14:59.227007 [info]: adjust timer once
+2021-01-07 22:14:59.252117 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:14:59.252177 [info]: adjust timer once
+2021-01-07 22:14:59.291481 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:14:59.291839 [info]: adjust timer once
+2021-01-07 22:14:59.350303 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:14:59.350435 [info]: adjust timer once
+2021-01-07 22:14:59.413506 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:14:59.413566 [info]: adjust timer once
+2021-01-07 22:14:59.525337 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:14:59.526585 [info]: adjust timer once
+2021-01-07 22:14:59.710932 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:14:59.711646 [info]: adjust timer once
+2021-01-07 22:15:00.828291 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:15:00.828408 [info]: adjust timer once
+2021-01-07 22:15:00.851498 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:15:00.851584 [info]: adjust timer once
+2021-01-07 22:15:00.868379 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:15:00.868438 [info]: adjust timer once
+2021-01-07 22:15:00.886323 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:15:00.886381 [info]: adjust timer once
+2021-01-07 22:15:00.911374 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:15:00.911452 [info]: adjust timer once
+2021-01-07 22:15:00.978855 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:15:00.978981 [info]: adjust timer once
+2021-01-07 22:15:01.035373 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:15:01.035449 [info]: adjust timer once
+2021-01-07 22:15:01.117155 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:15:01.117227 [info]: adjust timer once
+2021-01-07 22:15:01.134535 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:15:01.134613 [info]: adjust timer once
+2021-01-07 22:15:01.151627 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:15:01.151705 [info]: adjust timer once
+2021-01-07 22:15:01.181601 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:15:01.181715 [info]: adjust timer once
+2021-01-07 22:15:01.225759 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:15:01.225838 [info]: adjust timer once
+2021-01-07 22:15:01.259932 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:15:01.259993 [info]: adjust timer once
+2021-01-07 22:15:01.291484 [info]: send data to the client(192.168.43.234)
+2021-01-07 22:15:01.291558 [info]: adjust timer once
+2021-01-07 22:15:03.485076 [info]: timer tick
+2021-01-07 22:15:08.485100 [info]: timer tick
+2021-01-07 22:15:13.485172 [info]: timer tick
+2021-01-07 22:15:18.485258 [info]: timer tick
+2021-01-07 22:15:23.485289 [info]: timer tick
+2021-01-07 22:15:28.485335 [info]: timer tick
+2021-01-07 22:15:33.485357 [info]: timer tick
+2021-01-07 22:15:38.485380 [info]: timer tick
+2021-01-07 22:15:43.485409 [info]: timer tick
+2021-01-07 22:15:48.485530 [info]: timer tick
+2021-01-07 22:15:53.485659 [info]: timer tick
+2021-01-07 22:15:58.485787 [info]: timer tick
+2021-01-07 22:16:03.485907 [info]: timer tick
+2021-01-07 22:16:08.485979 [info]: timer tick
+2021-01-07 22:16:13.486064 [info]: timer tick
+2021-01-07 22:16:18.486184 [info]: timer tick
+2021-01-07 22:16:23.486312 [info]: timer tick
+2021-01-07 22:16:28.486443 [info]: timer tick
+2021-01-07 22:16:33.486626 [info]: timer tick
+2021-01-07 22:16:38.486831 [info]: timer tick
+2021-01-07 22:16:43.486974 [info]: timer tick
+2021-01-07 22:16:48.487042 [info]: timer tick
+2021-01-07 22:16:53.487171 [info]: timer tick
+2021-01-07 22:16:58.487376 [info]: timer tick
+2021-01-07 22:17:03.487523 [info]: timer tick
+2021-01-07 22:17:08.487650 [info]: timer tick
+2021-01-07 22:17:13.487805 [info]: timer tick
+2021-01-07 22:17:18.487845 [info]: timer tick
